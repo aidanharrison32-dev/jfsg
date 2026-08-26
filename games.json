@@ -1,0 +1,16 @@
+[
+  {
+    "id": "calc-game-1",
+    "title": "Retro Space Launcher",
+    "category": "Algebra",
+    "description": "Trajectory calculation arcade game.",
+    "iframeUrl": "https://playcanv.as/p/2O2Oe372/"
+  },
+  {
+    "id": "calc-game-2",
+    "title": "HexGL Racing",
+    "category": "Geometry",
+    "description": "High-speed 3D spatial velocity simulator.",
+    "iframeUrl": "https://hexgl.bkcore.com/play/"
+  }
+]
